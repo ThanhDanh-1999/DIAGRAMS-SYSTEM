@@ -1,0 +1,8 @@
+🌻 marktext
+🌻 markmap
+  https://markmap.js.org/repl
+🌻 Sequence diagram
+  https://www.planttext.com
+🌻 diagram
+  https://blog.bytebytego.com/p/diagram-as-code
+  https://diagrams.mingrammer.com/docs/getting-started/examples
